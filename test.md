@@ -1,5 +1,5 @@
-| CIS Control | Control Name |
-| ---- | ---- |
+| Control | Control Name |
+|:---:|:---:|
 | 1 | Inventory and Control of Enterprise Assets |
 | 2 | Inventory and Control of Software Assets |
 | 3 | Data Protection |
